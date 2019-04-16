@@ -1,0 +1,22 @@
+1352  * * * send client * * * abstract connection * * * exchange session 1.0  1.0
+1411  * * * get message * * dav mail exception * * * bundle message 
+1471  * * * search messages * * * exchange session * * * v object 
+1604  * * is all day * * * v calendar * * * v object 
+1607  * * get email value * * * v calendar * * * v property 
+1611  * * * fix tzid * * * v calendar * * * v object 
+1612  * * split ex date * * * v calendar * * * v object 
+1613  * * set server allday * * * v calendar * * * v property 
+1614  * * set client allday * * * v calendar * * * v property 
+1630  * add first vevent property * * * v calendar * * * v property 
+1768  * * add field value * * indexed field update * * * field update 
+1838  * * * execute method * * ews exchange session * e w s method 
+1850  * * * get name * e w s method * * * * disposal 
+1851  * * add additional property * e w s method * * * base shape 
+1852  * * add method option * e w s method * * * base shape 
+1885  * * handle email addresses * e w s method * * * base shape 
+1890  * * * handle attendee * e w s method * * * * disposal 
+1893  * * handle mime content * e w s method * * * base shape 
+1920  * * * handle mailbox * * resolve names method * * * attribute option 
+2153  * * get frame icon * * frame gateway tray * * * settings frame 
+2196  * * get frame icon * * swt gateway tray * * * about frame 
+2205  * * get frame icon * * awt gateway tray * * * settings frame 

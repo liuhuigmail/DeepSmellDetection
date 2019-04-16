@@ -1,0 +1,13 @@
+2536  * * get locale text * * * master panel * j smooth model bean 
+2591  * * * data changed * * * java properties * * sorted editable list 
+2638  * * get preferred size * * * skeleton properties * * * skeleton bean 
+2654  * * * data changed j v m search sequence * * sorted editable list 
+2663  * * * data changed * * j smooth info h t m l pane 
+2682  * * * add bean * * * skel panel * * skel prop editor 
+2683  * * * * bind * * skel prop editor * * * skeleton property 
+2768  * * * remove item * editable list file editor * * sorted editable list 
+2792  * * * get application * * j smooth action * * j smooth application 
+2815  * * * * run * * save project action * * j smooth application 
+2829  * * set skeleton property * * j smooth application * j smooth model bean 
+2862  * * * * run * * * compile action * * j smooth application 
+2906  * * * * init * p e resource directory * * p e section 
